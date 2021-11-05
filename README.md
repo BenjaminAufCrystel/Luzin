@@ -1,2 +1,6 @@
 # Luzin
-Gumroad Luzin description
+
+# Requirements
+>VRCSDK 2.0
+>Poiyomi
+>
